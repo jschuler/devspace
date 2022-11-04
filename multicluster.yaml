@@ -31,7 +31,7 @@ spec:
 
       6. After the operator is installed, you are prompted to install the MultiClusterEngine. Click **Create MultiClusterEngine**.
 
-      7. On the Create MulticlusterEngine page, click **Create**. The default settings will be applied. For more customizations, see documentation [Link]. After the installation is completed, you are prompted to refresh your web console.
+      7. On the Create MulticlusterEngine page, click **Create**. The default settings will be applied. After the installation is completed, you are prompted to refresh your web console.
 
       8. Refresh your web console. The cluster switcher is displayed in the upper-left corner of the navigation.
 
